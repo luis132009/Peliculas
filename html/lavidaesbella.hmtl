@@ -1,0 +1,27 @@
+<html>
+
+	<head>
+		<metacharset = 'utf-8'>
+		<title>La vida es bella</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	</head>
+	<style>
+
+		
+		img {
+		display: block;
+		width: 350px;
+		height: 250px;
+
+		}
+		body {
+  background-image: url('https://media.istockphoto.com/id/1220952624/es/foto/fondo-de-la-piscina-vac%C3%ADa-submarina.jpg?s=612x612&w=0&k=20&c=1tQSkbfBhQSy9ObLIJbNiutgVqPmPwpPHDJrva813ZE=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+		</style>
+		<body>
+
+		<h1><b>La vida es bella</b></h1>
+		<p3 style ="font-size:120%">La vida es bella ( en italiano : La vita è bella , en italiano: [la ˈviːta ˈɛ bˈbɛlla] ) es una película de comedia dramática de época italiana de 1997 dirigida y protagonizada por Roberto Benigni , quien coescribió la película con Vincenzo Cerami . Benigni interpreta a Guido Orefice, un judío italiano dueño de una librería, que emplea su imaginación para proteger a su hijo de los horrores del internamiento en un campo de concentración nazi . La película se inspiró parcialmente en el libro Al final, vencí a Hitler de Rubino Romeo Salmonì y en el padre de Benigni, quien pasó dos años en el campo de concentración de Bergen-Belsen durante la Segunda Guerra Mundial .
