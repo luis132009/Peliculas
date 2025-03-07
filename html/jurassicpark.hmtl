@@ -1,0 +1,27 @@
+<html>
+
+	<head>
+		<metacharset = 'utf-8'>
+		<title>Jurassic Park</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	</head>
+	<style>
+
+		
+		img {
+		display: block;
+		width: 350px;
+		height: 250px;
+
+		}
+		body {
+  background-image: url('https://media.istockphoto.com/id/1220952624/es/foto/fondo-de-la-piscina-vac%C3%ADa-submarina.jpg?s=612x612&w=0&k=20&c=1tQSkbfBhQSy9ObLIJbNiutgVqPmPwpPHDJrva813ZE=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+		</style>
+		<body>
+
+		<h1><b>Jurassic Park</b></h1>
+		<p3 style ="font-size:120%">Parque Jurásico (cuyo título original en inglés es Jurassic Park) es una película de ciencia ficción y aventuras dirigida por el cineasta estadounidense Steven Spielberg y estrenada en 1993. Su trama está basada en el libro homónimo de Michael Crichton,5​ y relata las vivencias de un grupo de personas en un parque de diversiones con dinosaurios clonados, creado por un filántropo multimillonario y un equipo de científicos genetistas. Durante una visita de evaluación antes de su apertura al público en general, los dinosaurios escapan y ponen en riesgo la vida de quienes se encuentran en el parque.
