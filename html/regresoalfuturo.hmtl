@@ -1,0 +1,27 @@
+<html>
+
+	<head>
+		<metacharset = 'utf-8'>
+		<title>Regreso al futuro</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	</head>
+	<style>
+
+		
+		img {
+		display: block;
+		width: 350px;
+		height: 250px;
+
+		}
+		body {
+  background-image: url('https://media.istockphoto.com/id/1220952624/es/foto/fondo-de-la-piscina-vac%C3%ADa-submarina.jpg?s=612x612&w=0&k=20&c=1tQSkbfBhQSy9ObLIJbNiutgVqPmPwpPHDJrva813ZE=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+		</style>
+		<body>
+
+		<h1><b>Regreso al futuro</b></h1>
+		<p3 style ="font-size:120%">Back to the Future (titulada Regreso al futuro en España, y Volver al futuro o Vuelta al futuro en Hispanoamérica) es una película estadounidense de ciencia ficción y comedia de 1985 dirigida y escrita por Robert Zemeckis —Bob Gale también colaboró como guionista—, producida por Steven Spielberg y protagonizada por Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover y Thomas F. Wilson. Relata las aventuras de Marty McFly, un adolescente rebelde e impulsivo que vive con sus padres y viaja accidentalmente al pasado desde 1985, su época, a 1955, la época en que sus padres se conocieron. Finalmente, cambia los hechos específicos de la línea original de tiempo en que sus padres se conocieron y enamoraron. Debido a esto, Marty debe recurrir a la ayuda del Dr. Emmett Brown para reunir a sus padres de nuevo, asegurando su propia existencia y la de sus hermanos.
