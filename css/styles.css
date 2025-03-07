@@ -63,3 +63,22 @@ table {
   width: 15px;
   height: 15px;
 }
+.navegacion {
+  text-align: center; /* Centrar la tabla */
+  margin-bottom: 20px; /* Agregar espacio debajo del cuadro */
+}
+
+.navegacion table {
+  display: inline-block; /* Permitir centrar la tabla */
+  border-collapse: collapse; /* Eliminar bordes entre celdas */
+}
+
+.navegacion td {
+  padding: 5px; /* Agregar espacio alrededor de las imágenes */
+  border: none; /* Eliminar bordes de las celdas */
+}
+
+.navegacion-imagen {
+  width: 100px; /* Ajustar el ancho de las imágenes */
+  height: 75px; /* Ajustar la altura de las imágenes */
+}
