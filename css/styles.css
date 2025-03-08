@@ -80,6 +80,6 @@ table {
 }
 
 .navegacion-imagen {
-  width: 60px; /* Reducir el ancho de las imágenes */
-  height: 45px; /* Reducir la altura de las imágenes */
+  width: 100px; /* Reducir el ancho de las imágenes */
+  height: 60px; /* Reducir la altura de las imágenes */
 }
